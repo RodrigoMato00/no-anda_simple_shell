@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
 		signal(SIGINT, check_signal);
 		while (1)
 		{
-			write(1, "esta es para vos Lu$ ", 21);
+			write(1, "($) ", 4);
 			get_input(&input, estat);
 			cmdtok = tokenize_cmds(input, cmdtok);
 			for (i = 0; cmdtok[i]; i++)
