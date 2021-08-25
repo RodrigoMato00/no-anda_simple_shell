@@ -1,7 +1,0 @@
-#!/bin/bash
-
-command="ls
-ls"
-echo "$command" | ./luu
-echo "_______________________"
-echo "$command" | /bin/sh
