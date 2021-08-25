@@ -30,8 +30,8 @@ typedef struct built
  */
 typedef struct exit_status
 {
-        char *message;
-        int code;
+	char *message;
+	int code;
 	int exit;
 } exit_jrl;
 
