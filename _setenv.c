@@ -1,7 +1,7 @@
 #include "header.h"
 
 /**
- * _setenv - kfdkdfkdksksfksdksd
+ * _ssetenv - kfdkdfkdksksfkddsdksd
  * @name: oifkojdfkdfkfzgkzfgkx
  * @value: jpsdkfdkpjoipafjg<ñsdfk<djfiojd
  * @overwrite: iajgpiofjgoijdfpoijsdfojsdfl

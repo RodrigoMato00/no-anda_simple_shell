@@ -1,7 +1,7 @@
 #include "header.h"
 
 /**
- * _exit - kjsksjkfdjsdjdk
+ * _eexit - kjsksjkfdjsdjdk
  * @arrtok: jjsdfjfzjfzjfj
  * Return: jdizfnjdjdnsdfjf
  */
